@@ -2,8 +2,6 @@
 
 I am a Software Engineer with over 10 years of work experience in small and large-scale projects and companies. My professional interests are Robotics, Autonomous Driving, Machine learning and Computer Vision. Have profound programming experience for different platforms from Embedded/Mobile to Robotics projects. Always willing to acquire additional skills and new knowledge. Highly self-motivated, hard-working and team-working professional with excellent problem-solving skills.
 
-Currently open for new offers and opportunities.
-
 --- 
 
 <img alt="Maxim Yastremsky’s GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=maxmagazin&show_icons=true&hide-border=true"/>
